@@ -1,0 +1,15 @@
+Data Encoding Report
+===================
+
+Features After Encoding:
+['area', 'bedrooms', 'bathrooms', 'stories', 'parking', 'mainroad_yes', 'guestroom_yes', 'basement_yes', 'hotwaterheating_yes', 'airconditioning_yes', 'prefarea_yes', 'furnishingstatus_semi-furnished', 'furnishingstatus_unfurnished']
+
+Sample Encoded Data:
+   area  ...  furnishingstatus_unfurnished
+0  7420  ...                         False
+1  8960  ...                         False
+2  9960  ...                         False
+3  7500  ...                         False
+4  7420  ...                         False
+
+[5 rows x 13 columns]

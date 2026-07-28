@@ -1,0 +1,14 @@
+Linear Regression Model Training Report
+=====================================
+
+Algorithm Used:
+Linear Regression
+
+Training Status:
+Model trained successfully
+
+Training Data Shape:
+(436, 13)
+
+Testing Data Shape:
+(109, 13)

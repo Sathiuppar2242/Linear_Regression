@@ -1,0 +1,34 @@
+Dataset Exploration Report
+=========================
+
+First 5 Rows:
+      price  area  bedrooms  ...  parking  prefarea furnishingstatus
+0  13300000  7420         4  ...        2       yes        furnished
+1  12250000  8960         4  ...        3        no        furnished
+2  12250000  9960         3  ...        2       yes   semi-furnished
+3  12215000  7500         4  ...        3       yes        furnished
+4  11410000  7420         4  ...        2        no        furnished
+
+[5 rows x 13 columns]
+
+Dataset Shape:
+(545, 13)
+
+Columns:
+['price', 'area', 'bedrooms', 'bathrooms', 'stories', 'mainroad', 'guestroom', 'basement', 'hotwaterheating', 'airconditioning', 'parking', 'prefarea', 'furnishingstatus']
+
+Data Types:
+price               int64
+area                int64
+bedrooms            int64
+bathrooms           int64
+stories             int64
+mainroad              str
+guestroom             str
+basement              str
+hotwaterheating       str
+airconditioning       str
+parking             int64
+prefarea              str
+furnishingstatus      str
+dtype: object

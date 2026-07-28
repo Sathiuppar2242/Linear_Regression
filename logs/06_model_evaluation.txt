@@ -1,0 +1,7 @@
+Linear Regression Model Evaluation Report
+=======================================
+
+Mean Absolute Error (MAE): 970043.4039201637
+Mean Squared Error (MSE): 1754318687330.6643
+Root Mean Squared Error (RMSE): 1324506.9600914388
+R2 Score: 0.6529242642153184

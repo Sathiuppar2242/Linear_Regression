@@ -1,0 +1,8 @@
+Feature Selection Report
+=======================
+
+Input Features (X):
+['area', 'bedrooms', 'bathrooms', 'stories', 'mainroad', 'guestroom', 'basement', 'hotwaterheating', 'airconditioning', 'parking', 'prefarea', 'furnishingstatus']
+
+Target Variable:
+price
