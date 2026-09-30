@@ -236,3 +236,10 @@ B.E Computer Science Engineering
 5. Train the Linear Regression model
 6. Generate predictions
 7. Evaluate the model results
+
+## Model Evaluation
+
+- Evaluate predictions using regression performance metrics
+- Compare predicted values with actual target values
+- Analyze model performance on test data
+- Use evaluation results to understand prediction quality
