@@ -218,3 +218,11 @@ B.E Computer Science Engineering
 - Understand the relationship between input and target variables
 - Train the model using prepared dataset features
 - Generate predictions using the trained regression model
+
+## Key Features
+
+- Load and prepare dataset for regression analysis
+- Train a Linear Regression model
+- Generate predictions from input data
+- Evaluate model performance using regression metrics
+- Save generated results for further analysis
