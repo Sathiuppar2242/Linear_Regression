@@ -226,3 +226,13 @@ B.E Computer Science Engineering
 - Generate predictions from input data
 - Evaluate model performance using regression metrics
 - Save generated results for further analysis
+
+## Linear Regression Workflow
+
+1. Load the dataset
+2. Inspect and prepare the data
+3. Select input and target variables
+4. Split the data into training and testing sets
+5. Train the Linear Regression model
+6. Generate predictions
+7. Evaluate the model results
