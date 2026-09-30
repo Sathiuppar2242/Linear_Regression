@@ -212,3 +212,9 @@ python main.py
 **Sathish R**
 
 B.E Computer Science Engineering
+## Project Objectives
+
+- Build a simple linear regression model using Python
+- Understand the relationship between input and target variables
+- Train the model using prepared dataset features
+- Generate predictions using the trained regression model
