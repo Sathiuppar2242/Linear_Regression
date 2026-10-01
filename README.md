@@ -250,3 +250,10 @@ B.E Computer Science Engineering
 - Includes input features and the target variable
 - Dataset is prepared before model training
 - Organized inside the dataset directory
+
+## Model Training
+
+- Training data is used to fit the linear regression model
+- Model learns the relationship between input features and the target value
+- Training process prepares the model for prediction
+- Trained model results are used during evaluation
