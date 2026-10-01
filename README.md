@@ -257,3 +257,10 @@ B.E Computer Science Engineering
 - Model learns the relationship between input features and the target value
 - Training process prepares the model for prediction
 - Trained model results are used during evaluation
+
+## Prediction
+
+- The trained model generates predictions from input feature values
+- Predictions are produced using the learned linear relationship
+- Input data is processed before generating the predicted value
+- Prediction results can be reviewed in the output directory
