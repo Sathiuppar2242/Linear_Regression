@@ -243,3 +243,10 @@ B.E Computer Science Engineering
 - Compare predicted values with actual target values
 - Analyze model performance on test data
 - Use evaluation results to understand prediction quality
+
+## Dataset
+
+- Contains the data used for training and testing the regression model
+- Includes input features and the target variable
+- Dataset is prepared before model training
+- Organized inside the dataset directory
