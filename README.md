@@ -271,3 +271,10 @@ B.E Computer Science Engineering
 - Output files help review the results of the regression model
 - Results can be used to verify model predictions
 - Output artifacts are organized inside the output directory
+
+## Project Limitations
+
+- Linear regression assumes a suitable relationship between features and the target
+- Model performance depends on the quality of the dataset
+- Outliers and noisy data can affect prediction accuracy
+- Results may vary when the model is applied to different datasets
