@@ -264,3 +264,10 @@ B.E Computer Science Engineering
 - Predictions are produced using the learned linear relationship
 - Input data is processed before generating the predicted value
 - Prediction results can be reviewed in the output directory
+
+## Project Output
+
+- Stores generated prediction results and model outputs
+- Output files help review the results of the regression model
+- Results can be used to verify model predictions
+- Output artifacts are organized inside the output directory
