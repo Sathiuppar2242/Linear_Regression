@@ -278,3 +278,10 @@ B.E Computer Science Engineering
 - Model performance depends on the quality of the dataset
 - Outliers and noisy data can affect prediction accuracy
 - Results may vary when the model is applied to different datasets
+
+## Model Performance
+
+- Model performance is evaluated using the test dataset
+- Evaluation metrics help measure prediction quality
+- Performance results can be used to understand model behavior
+- Evaluation supports comparison between predicted and actual values
