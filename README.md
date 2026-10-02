@@ -285,3 +285,10 @@ B.E Computer Science Engineering
 - Evaluation metrics help measure prediction quality
 - Performance results can be used to understand model behavior
 - Evaluation supports comparison between predicted and actual values
+
+## Technologies Used
+
+- Python for model development and data processing
+- Pandas for dataset handling and analysis
+- NumPy for numerical operations
+- Scikit-learn for building and evaluating the linear regression model
