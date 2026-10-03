@@ -300,3 +300,10 @@ B.E Computer Science Engineering
 3. Install the required dependencies
 4. Run the main Python program
 5. Review the generated prediction and evaluation results
+
+## Future Improvements
+
+- Experiment with additional regression algorithms
+- Add more feature engineering techniques
+- Improve model evaluation and visualization
+- Expand the dataset for broader testing
