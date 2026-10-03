@@ -315,3 +315,11 @@ B.E Computer Science Engineering
 - output/ - stores generated model results
 - main.py - contains the main project workflow
 - README.md - provides project documentation
+
+## Usage
+
+- Prepare the required input dataset
+- Run the project workflow through the main Python program
+- Train the linear regression model using the prepared data
+- Generate predictions for the test data
+- Review the model evaluation and output results
