@@ -292,3 +292,11 @@ B.E Computer Science Engineering
 - Pandas for dataset handling and analysis
 - NumPy for numerical operations
 - Scikit-learn for building and evaluating the linear regression model
+
+## How to Run
+
+1. Clone the repository
+2. Create and activate a Python virtual environment
+3. Install the required dependencies
+4. Run the main Python program
+5. Review the generated prediction and evaluation results
