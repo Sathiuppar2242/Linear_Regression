@@ -307,3 +307,11 @@ B.E Computer Science Engineering
 - Add more feature engineering techniques
 - Improve model evaluation and visualization
 - Expand the dataset for broader testing
+
+## Project Structure
+
+- dataset/ - stores project dataset files
+- logs/ - stores execution and processing logs
+- output/ - stores generated model results
+- main.py - contains the main project workflow
+- README.md - provides project documentation
