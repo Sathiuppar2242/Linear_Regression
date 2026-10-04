@@ -323,3 +323,10 @@ B.E Computer Science Engineering
 - Train the linear regression model using the prepared data
 - Generate predictions for the test data
 - Review the model evaluation and output results
+
+## Conclusion
+
+- This project demonstrates the basic workflow of linear regression
+- It covers data preparation, model training, prediction, and evaluation
+- The project provides a foundation for exploring regression-based machine learning
+- The documented workflow can be extended with additional datasets and models
