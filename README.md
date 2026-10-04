@@ -330,3 +330,11 @@ B.E Computer Science Engineering
 - It covers data preparation, model training, prediction, and evaluation
 - The project provides a foundation for exploring regression-based machine learning
 - The documented workflow can be extended with additional datasets and models
+
+## Requirements
+
+- Python 3.x
+- Pandas for data processing
+- NumPy for numerical operations
+- Scikit-learn for machine learning
+- A compatible dataset for training and testing
