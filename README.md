@@ -338,3 +338,10 @@ B.E Computer Science Engineering
 - NumPy for numerical operations
 - Scikit-learn for machine learning
 - A compatible dataset for training and testing
+
+## Learning Outcomes
+
+- Understand the basic workflow of linear regression
+- Practice preparing data for machine learning
+- Learn how to train and evaluate a regression model
+- Understand how predictions are generated from trained models
