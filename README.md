@@ -352,3 +352,10 @@ B.E Computer Science Engineering
 - Compare predicted values with the expected target values
 - Review evaluation metrics to assess model performance
 - Verify generated outputs after running the project
+
+## Data Preparation
+
+- Load the dataset before starting the training process
+- Inspect the available features and target values
+- Prepare the data in a suitable format for model training
+- Separate the prepared data into training and testing sets
