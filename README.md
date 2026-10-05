@@ -359,3 +359,11 @@ B.E Computer Science Engineering
 - Inspect the available features and target values
 - Prepare the data in a suitable format for model training
 - Separate the prepared data into training and testing sets
+
+## Model Workflow
+
+- Load and prepare the dataset
+- Select the input features and target variable
+- Split the data into training and testing sets
+- Train the linear regression model
+- Generate predictions and evaluate the results
