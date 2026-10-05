@@ -345,3 +345,10 @@ B.E Computer Science Engineering
 - Practice preparing data for machine learning
 - Learn how to train and evaluate a regression model
 - Understand how predictions are generated from trained models
+
+## Testing
+
+- Test the trained model using the available test dataset
+- Compare predicted values with the expected target values
+- Review evaluation metrics to assess model performance
+- Verify generated outputs after running the project
