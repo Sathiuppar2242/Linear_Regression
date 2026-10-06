@@ -374,3 +374,9 @@ B.E Computer Science Engineering
 - Maintain clear and readable Python code
 - Update documentation when project functionality changes
 - Test changes before committing them to the repository
+
+## License
+
+- This project is intended for educational and learning purposes
+- Refer to the repository license file for applicable usage terms
+- Please follow the project license when reusing or modifying the code
