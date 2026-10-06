@@ -367,3 +367,10 @@ B.E Computer Science Engineering
 - Split the data into training and testing sets
 - Train the linear regression model
 - Generate predictions and evaluate the results
+
+## Contribution Guidelines
+
+- Keep changes focused on the project objectives
+- Maintain clear and readable Python code
+- Update documentation when project functionality changes
+- Test changes before committing them to the repository
