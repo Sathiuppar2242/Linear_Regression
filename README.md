@@ -408,3 +408,10 @@ B.E Computer Science Engineering
 - Practice clean and structured machine learning workflows
 - Strengthen Python programming and data analysis skills
 - Prepare the project for future model improvements
+
+## Expected Learning
+
+- Understand the fundamentals of linear regression
+- Gain practical experience with model training and prediction
+- Learn how to evaluate regression model results
+- Build confidence for advanced machine learning projects
