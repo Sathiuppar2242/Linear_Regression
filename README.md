@@ -394,3 +394,10 @@ B.E Computer Science Engineering
 - Helps understand the complete machine learning workflow
 - Strengthens practical experience with Python and data analysis
 - Provides a foundation for building more advanced regression models
+
+## Model Interpretation
+
+- Understand how input features influence predictions
+- Interpret the relationship between features and the target value
+- Review predicted values alongside actual values
+- Use evaluation results to understand model performance
