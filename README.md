@@ -380,3 +380,10 @@ B.E Computer Science Engineering
 - This project is intended for educational and learning purposes
 - Refer to the repository license file for applicable usage terms
 - Please follow the project license when reusing or modifying the code
+
+## Practical Objectives
+
+- Build a simple and understandable regression workflow
+- Practice working with structured numerical datasets
+- Understand the relationship between input features and predictions
+- Develop a foundation for future machine learning projects
