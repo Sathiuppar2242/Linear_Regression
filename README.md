@@ -401,3 +401,10 @@ B.E Computer Science Engineering
 - Interpret the relationship between features and the target value
 - Review predicted values alongside actual values
 - Use evaluation results to understand model performance
+
+## Development Focus
+
+- Improve understanding of regression algorithms
+- Practice clean and structured machine learning workflows
+- Strengthen Python programming and data analysis skills
+- Prepare the project for future model improvements
