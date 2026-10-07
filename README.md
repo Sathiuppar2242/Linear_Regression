@@ -387,3 +387,10 @@ B.E Computer Science Engineering
 - Practice working with structured numerical datasets
 - Understand the relationship between input features and predictions
 - Develop a foundation for future machine learning projects
+
+## Project Benefits
+
+- Provides a clear introduction to linear regression
+- Helps understand the complete machine learning workflow
+- Strengthens practical experience with Python and data analysis
+- Provides a foundation for building more advanced regression models
