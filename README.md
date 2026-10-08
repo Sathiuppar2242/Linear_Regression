@@ -429,3 +429,10 @@ B.E Computer Science Engineering
 - Maintain a clear project structure
 - Document important machine learning steps
 - Follow consistent practices for future improvements
+
+## Future Model Improvements
+
+- Experiment with additional regression algorithms
+- Compare different model performance results
+- Explore feature engineering techniques
+- Improve prediction accuracy through iterative development
