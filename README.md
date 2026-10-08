@@ -415,3 +415,10 @@ B.E Computer Science Engineering
 - Gain practical experience with model training and prediction
 - Learn how to evaluate regression model results
 - Build confidence for advanced machine learning projects
+
+## Performance Review
+
+- Compare predicted values with actual target values
+- Review regression evaluation metrics
+- Identify areas where prediction accuracy can be improved
+- Use evaluation results to guide future model development
