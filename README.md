@@ -422,3 +422,10 @@ B.E Computer Science Engineering
 - Review regression evaluation metrics
 - Identify areas where prediction accuracy can be improved
 - Use evaluation results to guide future model development
+
+## Project Quality Goals
+
+- Keep the code simple and readable
+- Maintain a clear project structure
+- Document important machine learning steps
+- Follow consistent practices for future improvements
