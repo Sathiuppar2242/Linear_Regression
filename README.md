@@ -443,3 +443,10 @@ B.E Computer Science Engineering
 - Keep the workflow organized for repeatable experiments
 - Record evaluation results to support comparisons
 - Maintain clear documentation of project changes
+
+## Data Validation
+
+- Check input data before training the regression model
+- Verify that required columns are available
+- Review missing values and unexpected data types
+- Confirm that training and testing data are prepared consistently
