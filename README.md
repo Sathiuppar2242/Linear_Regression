@@ -450,3 +450,10 @@ B.E Computer Science Engineering
 - Verify that required columns are available
 - Review missing values and unexpected data types
 - Confirm that training and testing data are prepared consistently
+
+## Model Reliability
+
+- Evaluate model performance on held-out testing data
+- Review multiple evaluation metrics where applicable
+- Avoid drawing conclusions from a single prediction
+- Reassess performance when the dataset or features change
