@@ -436,3 +436,10 @@ B.E Computer Science Engineering
 - Compare different model performance results
 - Explore feature engineering techniques
 - Improve prediction accuracy through iterative development
+
+## Reproducibility
+
+- Use consistent data preparation steps before model training
+- Keep the workflow organized for repeatable experiments
+- Record evaluation results to support comparisons
+- Maintain clear documentation of project changes
