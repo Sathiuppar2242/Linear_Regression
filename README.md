@@ -464,3 +464,10 @@ B.E Computer Science Engineering
 - Review dependencies when updating the project environment
 - Remove temporary files that are no longer needed
 - Verify the workflow after meaningful project updates
+
+## Model Limitations
+
+- Performance depends on the quality and representativeness of the dataset
+- Linear Regression may not capture complex nonlinear relationships
+- Outliers can influence the fitted regression line
+- Evaluation metrics should be reviewed before using predictions
