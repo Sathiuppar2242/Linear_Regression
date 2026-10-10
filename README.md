@@ -457,3 +457,10 @@ B.E Computer Science Engineering
 - Review multiple evaluation metrics where applicable
 - Avoid drawing conclusions from a single prediction
 - Reassess performance when the dataset or features change
+
+## Project Maintenance
+
+- Keep project documentation aligned with code changes
+- Review dependencies when updating the project environment
+- Remove temporary files that are no longer needed
+- Verify the workflow after meaningful project updates
