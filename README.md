@@ -471,3 +471,10 @@ B.E Computer Science Engineering
 - Linear Regression may not capture complex nonlinear relationships
 - Outliers can influence the fitted regression line
 - Evaluation metrics should be reviewed before using predictions
+
+## Model Improvement Strategies
+
+- Check feature relationships before training the model
+- Investigate outliers and unusual data points
+- Compare evaluation metrics across model versions
+- Validate improvements on unseen test data
