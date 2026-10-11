@@ -485,3 +485,10 @@ B.E Computer Science Engineering
 - Compare training and testing performance
 - Review residuals to identify prediction errors
 - Use unseen data to assess model generalization
+
+## Data Quality Checks
+
+- Check for missing values before model training
+- Confirm feature and target columns are valid
+- Investigate duplicate or inconsistent records
+- Verify data types and value ranges
