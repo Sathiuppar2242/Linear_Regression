@@ -478,3 +478,10 @@ B.E Computer Science Engineering
 - Investigate outliers and unusual data points
 - Compare evaluation metrics across model versions
 - Validate improvements on unseen test data
+
+## Model Evaluation Best Practices
+
+- Evaluate predictions using appropriate regression metrics
+- Compare training and testing performance
+- Review residuals to identify prediction errors
+- Use unseen data to assess model generalization
