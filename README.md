@@ -499,3 +499,10 @@ B.E Computer Science Engineering
 - Record model settings used during training
 - Use consistent evaluation procedures when comparing models
 - Document changes that may affect experimental results
+
+## Prediction Quality Review
+
+- Compare predicted values with actual target values
+- Review large prediction errors for possible causes
+- Check whether errors follow a consistent pattern
+- Record evaluation findings when comparing model versions
