@@ -492,3 +492,10 @@ B.E Computer Science Engineering
 - Confirm feature and target columns are valid
 - Investigate duplicate or inconsistent records
 - Verify data types and value ranges
+
+## Model Reproducibility Guidelines
+
+- Keep data preparation steps consistent across runs
+- Record model settings used during training
+- Use consistent evaluation procedures when comparing models
+- Document changes that may affect experimental results
