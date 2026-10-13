@@ -513,3 +513,10 @@ B.E Computer Science Engineering
 - Review changes in prediction errors over time
 - Check incoming data for unexpected patterns
 - Reassess model performance before relying on updated predictions
+
+## Feature Scaling Considerations
+
+- Review feature ranges before selecting a scaling method
+- Fit scaling transformations using training data only
+- Apply the same fitted transformation to test data
+- Compare model performance before and after scaling
