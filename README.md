@@ -506,3 +506,10 @@ B.E Computer Science Engineering
 - Review large prediction errors for possible causes
 - Check whether errors follow a consistent pattern
 - Record evaluation findings when comparing model versions
+
+## Model Monitoring Guidelines
+
+- Track model performance when new data becomes available
+- Review changes in prediction errors over time
+- Check incoming data for unexpected patterns
+- Reassess model performance before relying on updated predictions
