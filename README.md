@@ -520,3 +520,10 @@ B.E Computer Science Engineering
 - Fit scaling transformations using training data only
 - Apply the same fitted transformation to test data
 - Compare model performance before and after scaling
+
+## Cross-Validation Guidelines
+
+- Use cross-validation to assess model stability
+- Keep validation procedures consistent across experiments
+- Compare validation results with held-out test performance
+- Avoid using test data to tune model settings
