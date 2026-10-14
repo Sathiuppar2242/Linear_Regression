@@ -527,3 +527,10 @@ B.E Computer Science Engineering
 - Keep validation procedures consistent across experiments
 - Compare validation results with held-out test performance
 - Avoid using test data to tune model settings
+
+## Residual Analysis Guidelines
+
+- Review residuals to understand prediction errors
+- Look for patterns that may indicate model limitations
+- Compare residual behavior across training and test data
+- Use residual analysis to identify potential improvements
