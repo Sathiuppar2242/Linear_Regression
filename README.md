@@ -541,3 +541,10 @@ B.E Computer Science Engineering
 - Compare performance across different model versions
 - Investigate unexpected changes in prediction accuracy
 - Keep evaluation results consistent and reproducible
+
+## Missing Data Handling
+
+- Check dataset columns for missing values before training
+- Choose an appropriate imputation or removal strategy
+- Fit imputation steps using training data only
+- Verify that preprocessing handles missing values consistently
