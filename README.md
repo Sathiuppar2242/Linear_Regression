@@ -534,3 +534,10 @@ B.E Computer Science Engineering
 - Look for patterns that may indicate model limitations
 - Compare residual behavior across training and test data
 - Use residual analysis to identify potential improvements
+
+## Model Performance Tracking
+
+- Record evaluation metrics for each model experiment
+- Compare performance across different model versions
+- Investigate unexpected changes in prediction accuracy
+- Keep evaluation results consistent and reproducible
