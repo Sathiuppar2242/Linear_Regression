@@ -555,3 +555,10 @@ B.E Computer Science Engineering
 - Avoid using test data to train or tune the model
 - Fit transformations only on the training dataset
 - Keep test data reserved for final model evaluation
+
+## Model Generalization Checks
+
+- Compare training and testing performance to identify overfitting
+- Evaluate predictions on data not used during training
+- Review large differences between training and testing errors
+- Reassess model assumptions when performance is inconsistent
