@@ -548,3 +548,10 @@ B.E Computer Science Engineering
 - Choose an appropriate imputation or removal strategy
 - Fit imputation steps using training data only
 - Verify that preprocessing handles missing values consistently
+
+## Data Leakage Prevention
+
+- Separate training and testing data before fitting preprocessing steps
+- Avoid using test data to train or tune the model
+- Fit transformations only on the training dataset
+- Keep test data reserved for final model evaluation
