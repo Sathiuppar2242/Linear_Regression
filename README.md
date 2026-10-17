@@ -569,3 +569,10 @@ B.E Computer Science Engineering
 - Verify whether extreme values are valid observations or data errors
 - Choose an appropriate treatment based on the dataset and problem
 - Compare model performance before and after justified outlier treatment
+
+## Experiment Reproducibility
+
+- Record dataset versions and preprocessing decisions
+- Keep model settings consistent when comparing experiments
+- Set random seeds where supported
+- Document evaluation results so experiments can be repeated
