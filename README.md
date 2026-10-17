@@ -576,3 +576,10 @@ B.E Computer Science Engineering
 - Keep model settings consistent when comparing experiments
 - Set random seeds where supported
 - Document evaluation results so experiments can be repeated
+
+## Feature Selection Considerations
+
+- Select input features that are relevant to the prediction target
+- Avoid including information that would not be available at prediction time
+- Compare model performance when using different feature sets
+- Keep feature selection decisions documented and reproducible
