@@ -562,3 +562,10 @@ B.E Computer Science Engineering
 - Evaluate predictions on data not used during training
 - Review large differences between training and testing errors
 - Reassess model assumptions when performance is inconsistent
+
+## Outlier Handling
+
+- Inspect unusual data points before model training
+- Verify whether extreme values are valid observations or data errors
+- Choose an appropriate treatment based on the dataset and problem
+- Compare model performance before and after justified outlier treatment
