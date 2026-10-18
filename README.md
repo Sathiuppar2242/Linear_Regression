@@ -583,3 +583,10 @@ B.E Computer Science Engineering
 - Avoid including information that would not be available at prediction time
 - Compare model performance when using different feature sets
 - Keep feature selection decisions documented and reproducible
+
+## Prediction Error Analysis
+
+- Review prediction errors to identify systematic patterns
+- Compare predicted values with actual target values
+- Investigate unusually large errors before changing the model
+- Use error analysis to guide evidence-based model improvements
