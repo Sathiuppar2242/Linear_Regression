@@ -590,3 +590,10 @@ B.E Computer Science Engineering
 - Compare predicted values with actual target values
 - Investigate unusually large errors before changing the model
 - Use error analysis to guide evidence-based model improvements
+
+## Model Improvement Priorities
+
+- Prioritize improvements based on evaluation results
+- Address data quality issues before tuning the model
+- Compare changes against a consistent baseline
+- Keep model improvements measurable and reproducible
