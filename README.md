@@ -597,3 +597,10 @@ B.E Computer Science Engineering
 - Address data quality issues before tuning the model
 - Compare changes against a consistent baseline
 - Keep model improvements measurable and reproducible
+
+## Model Deployment Readiness
+
+- Verify preprocessing steps before deployment
+- Keep training and prediction workflows consistent
+- Validate the model with unseen data before release
+- Document deployment assumptions and limitations
