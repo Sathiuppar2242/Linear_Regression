@@ -611,3 +611,10 @@ B.E Computer Science Engineering
 - Examine residual patterns to identify possible model weaknesses
 - Consider the dataset context when interpreting performance
 - Document findings before making further model changes
+
+## Model Validation Checklist
+
+- Confirm that training and testing data are separated correctly
+- Evaluate predictions using appropriate regression metrics
+- Check residuals for patterns that indicate model weaknesses
+- Record validation results before accepting model changes
