@@ -618,3 +618,10 @@ B.E Computer Science Engineering
 - Evaluate predictions using appropriate regression metrics
 - Check residuals for patterns that indicate model weaknesses
 - Record validation results before accepting model changes
+
+## Training and Testing Data Consistency
+
+- Apply the same preprocessing logic to training and testing data
+- Keep feature columns consistent across both datasets
+- Fit preprocessing transformations on training data only
+- Check for data leakage before evaluating model performance
