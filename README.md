@@ -625,3 +625,10 @@ B.E Computer Science Engineering
 - Keep feature columns consistent across both datasets
 - Fit preprocessing transformations on training data only
 - Check for data leakage before evaluating model performance
+
+## Model Evaluation Documentation
+
+- Record evaluation metrics alongside the model version
+- Compare new results against a consistent baseline
+- Investigate unexpected changes in prediction errors
+- Keep evaluation records reproducible and easy to review
