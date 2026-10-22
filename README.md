@@ -632,3 +632,10 @@ B.E Computer Science Engineering
 - Compare new results against a consistent baseline
 - Investigate unexpected changes in prediction errors
 - Keep evaluation records reproducible and easy to review
+
+## Experiment Tracking
+
+- Record the dataset and feature configuration used for each experiment
+- Track model settings and evaluation metrics consistently
+- Compare experiments against a documented baseline
+- Preserve results so model changes can be reviewed later
