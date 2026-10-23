@@ -646,3 +646,10 @@ B.E Computer Science Engineering
 - Compare new results against a consistent baseline
 - Investigate unexpected changes in prediction errors
 - Record monitoring findings to guide future improvements
+
+## Model Change Management
+
+- Document the reason for each model change
+- Compare updated results against the previous baseline
+- Validate changes before accepting them
+- Keep experiment records reproducible and traceable
