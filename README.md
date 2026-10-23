@@ -639,3 +639,10 @@ B.E Computer Science Engineering
 - Track model settings and evaluation metrics consistently
 - Compare experiments against a documented baseline
 - Preserve results so model changes can be reviewed later
+
+## Model Performance Monitoring
+
+- Track evaluation metrics across model versions
+- Compare new results against a consistent baseline
+- Investigate unexpected changes in prediction errors
+- Record monitoring findings to guide future improvements
